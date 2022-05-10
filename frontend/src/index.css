@@ -1,0 +1,72 @@
+a{
+  text-decoration: none;  /* eta kno korlo jante hbe */
+}
+
+.menu .item{
+  margin-left: 20px;
+  color: #fff;
+  margin-top: 7px;
+}
+
+.menu .dropdown a{
+  margin-left: 20px;
+  color: #fff !important;
+}
+.card-body {
+  padding-top: 160px;
+}
+
+.menu .dropdown-menu a{
+  margin-left: 0px;
+  color: #000 !important;
+}
+
+.navbar-expand .navbar-nav .dropdown-menu {
+  /* position: absolute; */
+  width: 408px;
+  padding: 20px;
+}
+
+.menu .badge {
+  margin-top: 6px;
+  padding: 0;
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+}
+
+.sidebar{
+  position: fixed;
+  top: 50%;
+  right: 0;
+}
+
+/* Product cart */
+.title {
+  font-family: 'Hind', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: #252525;
+  font-size: 20px;
+}
+.subDetails{
+  font-family: 'Hind';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #303960;
+}
+.model{
+  font-family: 'Hind';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #303960;
+}
+.price{
+  font-family: 'Hind';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 22px;
+  color: #303960;
+}
